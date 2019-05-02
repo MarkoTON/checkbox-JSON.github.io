@@ -1,0 +1,164 @@
+[
+   {
+     "name": "Marko Čanović",
+     "address": "Petra Drapšina 23a Železnik - Belgrade",
+     "phone": "069/184-95-36",
+     "socialNetworks": [
+       {
+         "name":"LinkedIn",
+         "address":"https://www.linkedin.com/in/marko-%C4%8Danovi%C4%87-810491a7/",
+         "icon": "fab fa-linkedin"
+       },
+       {
+         "name":"GitHub",
+         "address": "https://github.com/MarkoTON",
+         "icon": "fab fa-github-square"
+       },
+       {
+         "name":"Facebook",
+         "address": "https://www.facebook.com/marko.canovic.3",
+         "icon": "fab fa-facebook"
+       },
+       {
+         "name":"E-mail",
+         "address": "markoTONcanovic@gmail.com",
+         "icon": "fa fa-envelope"
+       },
+       {
+         "name":"Twitter",
+         "address": "https://twitter.com/Sabaku_No_Garra",
+         "icon": "fab fa-twitter"
+       },
+       {
+         "name":"Chess",
+         "address": "https://www.chess.com/member/marko_ton",
+         "icon": "fa fa-chess-pawn"
+       }
+     ],
+     "skills": {
+       "html": "html",
+       "css": "css",
+       "bootstrap": "bootstrap / 3 & 4",
+       "javascript": "javascript",
+       "githubDasktop": "githubDasktop",
+       "git": "git / Basic",
+       "jQuery": "jQuery / Basic",
+       "wordpress": "wordpress / Introduction",
+       "ajax": "ajax / Introduction",
+       "json": "json / Basic"
+     },
+     "skillsWorkingOn": {
+       "javascript-intermediate": "javascript / Intermediate",
+       "jQuery-basic": "jQuery / Basic",
+       "ajax-basic": "ajax / Basic",
+       "css-advanced": "css / Advanced",
+       "materialize-basic": "Materialize / Basic",
+       "less-basic": "less / Basic"
+     },
+     "toolsFamiliar": {
+       "lightbox-basic": "lightbox / Basic",      
+       "fancybox-basic": "fancybox / Basic",      
+       "animate-css-basic": "animate.css / Basic",      
+       "scroll-reveal-basic": "scroll-reveal / Basic"
+     },
+     "hobby-interest": 
+     [
+       "IT Technologies", "Anime movies", "Manga", "Reading", "Gym workout"
+     ],
+     "githubRepository": 
+     [
+       {
+         "link":"https://markoton.github.io/TEST-AgencyLandingPageUsingLESS.github.io/index.html",
+         "imageLink":"img/welcome.png"
+       },
+       {
+         "link": "https://markoton.github.io/MarkoTON-Mizuxe-Book.github.io/",
+         "imageLink":"img/book.png"
+       },
+       {
+         "link": "https://markoton.github.io/WebHostingCompanyWebsite.github.io/index.html",
+         "imageLink":"img/hosting.png"
+       },
+       {
+         "link": "https://markoton.github.io/input.github.io/",
+         "imageLink":"img/input.png"
+       },
+       {
+         "link": "https://markoton.github.io/LabSocialTheme.github.io/",
+         "imageLink":"img/loop.png"
+       },
+       {
+         "link": "https://markoton.github.io/MarkoMOVU.github.io/",
+         "imageLink": "img/movu.png"
+       },
+       {
+         "link": "https://markoton.github.io/Portfolio-Test.github.io/",
+         "imageLink": "img/test-cv.png"
+       },
+       {
+         "link": "https://markoton.github.io/JavaScript-Test/",
+         "imageLink": "img/test.png"
+       },
+       {
+         "link": "https://markoton.github.io/photo-gallery-online-test.github.io/",
+         "imageLink": "img/gallery.png"
+       },
+       {
+         "link": "https://markoton.github.io/PhotoAppSalesWebsite.github.io/",
+         "imageLink": "img/life.png"
+       },
+       {
+         "link": "https://markoton.github.io/GuessNumber.github.io/",
+         "imageLink": "img/guess.png"
+       },
+       {
+         "link": "https://markoton.github.io/GH-search-app.github.io/",
+         "imageLink": "img/GH-app.png" 
+       },
+       {
+         "link": "https://markoton.github.io/weatherapp.github.io/",
+         "imageLink": "img/weather.png"
+       },
+       {
+         "link": "https://markoton.github.io/loan-calculator.github.io/",
+         "imageLink": "img/cal.png"
+       },
+       {
+         "link": "https://markoton.github.io/taskapp.github.io/",
+         "imageLink": "img/task.png"
+       },
+       {
+         "link": "https://markoton.github.io/DecorStone.github.io/",
+         "imageLink": "img/decor.png"
+       },
+       {
+         "link": "https://markoton.github.io/ProjekatIzITBootcampa.github.io/",
+         "imageLink": "img/sportsko-drustvo.png"
+       },
+       {
+         "link": "https://github.com/MarkoTON/JavaScript-EXERCISE.github.io",
+         "imageLink": "img/jsVezbe.png"
+       },
+       {
+         "link": "https://markoton.github.io/LoopingThroughJSON.github.io/",
+         "imageLink": "img/JSONFilter.png"
+       },
+       {
+         "link": "https://markoton.github.io/ProjekatIzITBootcampa-1.2.github.io/",
+         "imageLink": "img/cz-respo.png"
+       },
+       {
+         "link": "https://markoton.github.io/SimpleCalculator.github.io/",
+         "imageLink": "img/calc.png"
+       },
+       {
+         "link": "https://markoton.github.io/CrelTiveTEST-FleetPartner.github.io/",
+         "imageLink": "img/fleet.png"
+       },
+       {
+         "link": "https://markoton.github.io/Convert-Celsius-Fahrenheit.github.io/",
+         "imageLink": "img/cel-fah.png"
+       }
+     ]
+   }
+ ]

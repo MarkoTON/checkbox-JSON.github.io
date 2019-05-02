@@ -1,0 +1,44 @@
+[
+   {
+      "id": 0,
+      "name": "A-Data",
+      "memoryCapacity": [1,4,8],
+      "img": ["KingSpec-memoria-ram-DDR3-4GB-8GB-RAM-Memory-DDR3-8GB-1600-MHz-For-Desktop-PC-DDR3.jpg_640x640.jpg","server-ram-memory-ddr4-ECC-433x191.png","kisspng-ram-computer-hardware-rom-computer-data-storage-fl-ram.jpg"]
+   },
+   {
+      "id": 1,
+      "name": "Apacer",
+      "memoryCapacity": [1,2,8],
+      "img": ["server-ram-memory-ddr4-ECC-433x191.png","kisspng-pc133-ram-synchronous-dynamic-random-access-memory-ram.jpg"]
+   },
+   {
+      "id": 2,
+      "name": "Crucial",
+      "memoryCapacity": [1,4],
+      "img": ["KingSpec-memoria-ram-DDR3-4GB-8GB-RAM-Memory-DDR3-8GB-1600-MHz-For-Desktop-PC-DDR3.jpg_640x640.jpg","kisspng-ddr2-sdram-synchronous-dynamic-random-access-memor.jpg"]
+   },
+   {
+      "id": 3,
+      "name": "Gigabyte",
+      "memoryCapacity": [1,4,8],
+      "img": ["KingSpec-memoria-ram-DDR3-4GB-8GB-RAM-Memory-DDR3-8GB-1600-MHz-For-Desktop-PC-DDR3.jpg_640x640.jpg","kisspng-ram-computer-hardware-rom-computer-data-storage-fl-ram.jpg","kisspng-computer-data-storage-ddr3-sdram-registered-memory-ram.jpg"]
+   },
+   {
+      "id": 4,
+      "name": "Kingston",
+      "memoryCapacity": [2,4,8],
+      "img": ["kisspng-ram-computer-hardware-rom-computer-data-storage-fl-ram.jpg","kisspng-computer-data-storage-ddr3-sdram-registered-memory-ram.jpg","KingSpec-memoria-ram-DDR3-4GB-8GB-RAM-Memory-DDR3-8GB-1600-MHz-For-Desktop-PC-DDR3.jpg_640x640.jpg"]
+   },
+   {
+      "id": 5,
+      "name": "SliconPower",
+      "memoryCapacity": [4,8],
+      "img": ["kisspng-ram-computer-hardware-rom-computer-data-storage-fl-ram.jpg","KingSpec-memoria-ram-DDR3-4GB-8GB-RAM-Memory-DDR3-8GB-1600-MHz-For-Desktop-PC-DDR3.jpg_640x640.jpg"]
+   },
+   {
+      "id": 6,
+      "name": "Transcend",
+      "memoryCapacity": [1,8],
+      "img": ["KingSpec-memoria-ram-DDR3-4GB-8GB-RAM-Memory-DDR3-8GB-1600-MHz-For-Desktop-PC-DDR3.jpg_640x640.jpg","kisspng-computer-data-storage-ddr3-sdram-registered-memory-ram.jpg"]
+   }
+]
